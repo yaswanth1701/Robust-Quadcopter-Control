@@ -28,3 +28,23 @@
 
 <img src="https://user-images.githubusercontent.com/92177410/160346518-ecc2d733-1f0f-4e9b-b228-70f839e5d7c7.gif" width="500" height="300">
 
+  position vs time          |  velocity vs time
+:-------------------------:|:-------------------------:
+ <img width="250" height="250" alt="zyx line path " src="https://user-images.githubusercontent.com/92177410/160361001-6d0ffecd-97cc-4766-bc35-608b794aea66.png">|  <img width="250" height="250" alt="xyz_dot line path" src="https://user-images.githubusercontent.com/92177410/160361060-6c673eb7-573f-4ee8-8132-8016fa46febb.png">
+
+### Helix trajectory in 3D :
+
+<img src="https://user-images.githubusercontent.com/92177410/160351187-b0b2aaac-adf8-485b-ae3e-20440a14cf91.gif" width="500" height="300">
+ 
+ position vs time          |  velocity vs time
+:-------------------------:|:-------------------------:
+ <img width="250" height="250" alt="xyz helix path" src="https://user-images.githubusercontent.com/92177410/160362304-4526f76a-757f-4718-8656-be0060bcc75b.png">| <img width="250" height="250" alt="xyzdot helix path" src="https://user-images.githubusercontent.com/92177410/160362436-42e6b830-5297-41f8-9937-e7fda3f89e6b.png">
+
+### Trajectroy generation :
+
+<img src="https://user-images.githubusercontent.com/92177410/160360014-bdc1f247-2190-495c-a3cd-0e734d49f2c3.gif" width="500" height="300">
+
+ position vs time          |  velocity vs time
+:-------------------------:|:-------------------------:
+ <img width="250" height="250" alt="xyz helix path" src="https://user-images.githubusercontent.com/92177410/160362955-303ad5a8-9472-4c4e-b30e-bdfdbc493515.png">| <img width="250" height="250" alt="xyzdot helix path" src="https://user-images.githubusercontent.com/92177410/160363062-6abd344c-908d-43d2-9f03-76223eba7e86.png">
+
